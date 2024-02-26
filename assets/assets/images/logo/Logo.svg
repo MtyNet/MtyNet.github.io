@@ -1,0 +1,17 @@
+<svg viewBox="-11.5 -11.5 23 23" xmlns="http://www.w3.org/2000/svg">
+    
+    <g fill="none" stroke="#4285F4">
+        <ellipse fill="none" rx="11" stroke="#4285F4" ry="4.2" transform="matrix(-.707 .707 -.707 -.707 0 0)"/>
+        <ellipse fill="none" stroke="#34A853" rx="11" ry="4.2" transform="matrix(0 1 -1 0 0 0)"/>
+        <ellipse fill="none" stroke="#EA4335" rx="11" ry="4.2" transform="matrix(.707 .707 -.707 .707 0 0)"/>
+        <ellipse fill="none" rx="11" stroke="#FBBC05" ry="4.2"/>
+    </g>
+    <circle fill="none" stroke="#4285F4" stroke-width="0.5" r="2.05" />
+
+    <path 
+    d="M -1 1 L -1 -0.6 L -0 0.5 L 1 -0.6 L 1 1 " 
+    fill="none" 
+    stroke="#EA4335" 
+    stroke-width="0.5"/>
+
+</svg>
