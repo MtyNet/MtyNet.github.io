@@ -71592,7 +71592,7 @@ $2(a,b){return A.a3E(a,b)},
 $S:155}
 A.CG.prototype={
 H(a){var s=this,r=null,q=s.c
-return A.pr(s.e,A.kb(A.a([new A.oJ(B.BX,new A.TP(),"telegram",q,r),B.eY,new A.oJ(B.BK,new A.TQ(),"GitHub",q,r),B.eY,new A.oJ(B.ky,new A.TR(s,a),"Linkdin",q,r),B.eY,A.i6(new A.JT(q.gjs(),r),40,5)],t.D),B.ah,B.bo),r,r,r,s.d,r,r)},
+return A.pr(s.e,A.kb(A.a([new A.oJ(B.BX,new A.TP(),"telegram",q,r),B.eY,new A.oJ(B.BK,new A.TQ(),"GitHub",q,r),B.eY,new A.oJ(B.ky,new A.TR(s,a),"phone",q,r),B.eY,A.i6(new A.JT(q.gjs(),r),40,5)],t.D),B.ah,B.bo),r,r,r,s.d,r,r)},
 a9T(a){A.aq1(new A.TT(this),a,t.z)}}
 A.TP.prototype={
 $0(){var s=0,r=A.S(t.H),q
