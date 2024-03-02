@@ -1,6 +1,6 @@
-<img src="readme_imgs/1.jpg">
-
 # Your resume profile
+
+<img src="readme_imgs/1.jpg">
 
 This is a Fluttery project compiled into JavaScript code, you can see it in the link below.
 
