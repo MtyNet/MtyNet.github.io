@@ -4,7 +4,7 @@
 
 This is a Fluttery project compiled into JavaScript code, you can see it in the link below.
 
-[My Page](https://mtynet.github.io/java_scripts_editor/)
+[My Page](https://mtynet.github.io)
 
 <img src="readme_imgs/2.jpg">
 
